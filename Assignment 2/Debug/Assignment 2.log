@@ -1,0 +1,27 @@
+﻿  RayTracer.cpp
+D:\Uni\COSC363\Assignment 2\Assignment 2 Submission\Assignment 2\SceneObject.h(26,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Uni\COSC363\Assignment 2\Assignment 2 Submission\Assignment 2\SceneObject.h(27,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Uni\COSC363\Assignment 2\Assignment 2 Submission\Assignment 2\SceneObject.h(28,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Uni\COSC363\Assignment 2\Assignment 2 Submission\Assignment 2\RayTracer.cpp(51,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Uni\COSC363\Assignment 2\Assignment 2 Submission\Assignment 2\RayTracer.cpp(52,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Uni\COSC363\Assignment 2\Assignment 2 Submission\Assignment 2\RayTracer.cpp(53,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Uni\COSC363\Assignment 2\Assignment 2 Submission\Assignment 2\RayTracer.cpp(64,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Uni\COSC363\Assignment 2\Assignment 2 Submission\Assignment 2\RayTracer.cpp(65,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Uni\COSC363\Assignment 2\Assignment 2 Submission\Assignment 2\RayTracer.cpp(84,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Uni\COSC363\Assignment 2\Assignment 2 Submission\Assignment 2\RayTracer.cpp(85,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Uni\COSC363\Assignment 2\Assignment 2 Submission\Assignment 2\RayTracer.cpp(296,54): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Uni\COSC363\Assignment 2\Assignment 2 Submission\Assignment 2\RayTracer.cpp(303,55): warning C4305: 'argument': truncation from 'double' to 'float'
+  Sphere.cpp
+D:\Uni\COSC363\Assignment 2\Assignment 2 Submission\Assignment 2\SceneObject.h(26,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Uni\COSC363\Assignment 2\Assignment 2 Submission\Assignment 2\SceneObject.h(27,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Uni\COSC363\Assignment 2\Assignment 2 Submission\Assignment 2\SceneObject.h(28,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  Assignment 2.vcxproj -> D:\Uni\COSC363\Assignment 2\Assignment 2 Submission\Debug\Assignment 2.exe
